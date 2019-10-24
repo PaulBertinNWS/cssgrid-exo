@@ -5,6 +5,7 @@ https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout/Les_concepts_de_ba
 /* mise en place de la grille */
 #basedelagrille{
     display: grid;
+    grid-template-columns: 200px 200px 200px;
     /* configuration de la grille en 3 colonnes */
     ??
 }
